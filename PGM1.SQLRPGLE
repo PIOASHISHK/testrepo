@@ -10,5 +10,6 @@ dcl-c true '1';
 *inlr = true;
 
 dsply 'Hello folks!';
+dsply 'First change';
 
 return;
