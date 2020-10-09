@@ -10,5 +10,6 @@ dcl-c true '1';
 *inlr = true;
 
 dsply 'Hi there!';
+dsply 'Hope you are doing good?';
 
 return;
